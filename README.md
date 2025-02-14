@@ -115,7 +115,3 @@ lib/
 ### **Pull requests are welcome\! If you find any issue or want to add more examples, feel free to submit a PR.**
 
 ### **Made with ❤️ using Flutter & Riverpod 🚀**
-
-### 
-
-# Riverpod_Examples
